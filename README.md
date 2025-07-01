@@ -8,7 +8,7 @@
 
 - 👨‍💼 Role: Entry-Level Data Analyst  
 - 🏨 Domain: Hospitality / Travel  
-- 🧰 Tools: Excel, SQL, Tableau  
+- 🧰 Tools: Excel, SQL, Powe Bi
 - 📊 Focus: Customer behavior, cancellation patterns, booking trends  
 
 ---
@@ -41,7 +41,7 @@ Performed in Excel:
   - `total_guests`
   - `is_family`
 - Dropped unused columns (`company`)
-- Exported cleaned dataset for SQL and Tableau use
+- Exported cleaned dataset for SQL and Power Bi use
 
 ---
 
@@ -49,7 +49,7 @@ Performed in Excel:
 
 - **Microsoft Excel** – Cleaning, preprocessing, initial analysis  
 - **SQL** – Data exploration and business questions  
-- **Tableau** – Dashboards and data storytelling
+- **Power Bi** – Dashboards and data storytelling
 
 ---
 
@@ -66,7 +66,7 @@ Example queries:
 
 ---
 
-## 📊 Tableau Dashboard
+## 📊 Power Bi Dashboard
 
 Dashboards include:
 - Booking trends by month and hotel type
@@ -79,7 +79,7 @@ Dashboards include:
 
 ## 🖼️ Visualizations
 
-Here are some key visualizations from the Tableau dashboard:
+Here are some key visualizations from the Power Bi dashboard:
 
 *Figure 1: Monthly Occupancy Trends by Hotel Type*
 
