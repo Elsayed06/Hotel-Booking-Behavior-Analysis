@@ -18,7 +18,7 @@
 - Source: [`hotel_bookings.csv`](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)  
 - Cleaned version: `hotel_bookings_cleaned.csv`  
 - Records: 119,390  
-- Fields: 32 columns including hotel type, booking dates, guests, revenue, cancellations, etc.
+- Fields: 32 columns including hotel type, booking dates, guests, revenue, cancellations
 
 ---
 
