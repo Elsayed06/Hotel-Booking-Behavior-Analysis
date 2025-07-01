@@ -55,8 +55,6 @@ Performed in Excel :
 
 ## 🧾 SQL Analysis
 
-Located in `sql/hotel_booking_analysis_queries.sql`
-
 Example queries:
 - Total bookings per hotel
 - Monthly booking trends
@@ -96,4 +94,6 @@ Dashboards include:
 
 ## 🧾 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under Attribution 4.0 International
+  CC BY 4.0
+
