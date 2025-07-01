@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking Analytics Project
 
-📊 A complete data analytics project exploring hotel reservation patterns, customer behavior, and cancellations using Excel, SQL, and Tableau.
+📊 A complete data analytics project exploring hotel reservation patterns, customer behavior, and cancellations using Excel, SQL, and Power Bi.
 
 ---
 
