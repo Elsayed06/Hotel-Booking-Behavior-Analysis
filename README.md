@@ -15,10 +15,10 @@
 
 ## 📁 Dataset
 
-- Source: [`hotel_bookings.csv`](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)  
+- Source: [`hotel_bookings.csv`](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand )  
 - Cleaned version: `hotel_bookings_cleaned.csv`  
-- Records: 119,390  
-- Fields: 32 columns including hotel type, booking dates, guests, revenue, cancellations
+- Records: ~119,390  
+- Fields: 32 columns including hotel type, booking dates, guests, revenue, cancellations, etc.
 
 ---
 
@@ -34,7 +34,7 @@ Analyze booking data from city and resort hotels to:
 
 ## 🧹 Data Cleaning (Excel)
 
-Performed in Excel :
+Performed in Excel:
 - Filled missing values (`children`, `agent`, `country`, `company`)
 - Created new columns:
   - `total_nights`
@@ -54,6 +54,8 @@ Performed in Excel :
 ---
 
 ## 🧾 SQL Analysis
+
+Located in `sql/analysis_queries.sql`
 
 Example queries:
 - Total bookings per hotel
@@ -75,6 +77,18 @@ Dashboards include:
 
 ---
 
+## 🖼️ Visualizations
+
+Here are some key visualizations from the Tableau dashboard:
+
+*Figure 1: Monthly Occupancy Trends by Hotel Type*
+
+*Figure 2: Cancellation Rates by Market Segment*
+
+*Figure 3: Guest Origin Map*
+
+---
+
 ## 📈 Key Insights
 
 - City hotels have more bookings but higher cancellations  
@@ -83,12 +97,12 @@ Dashboards include:
 - Repeat guests have lower cancellation rates  
 - Room type overbooking happens frequently  
 
-
+---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/elsayed-masoud-737736165  
-- 📬 Email:Elsayeedmassoud@gmail.com  
+- 💼 LinkedIn: [Elsayed Masoud](https://www.linkedin.com/in/elsayed-masoud-737736165 )  
+- 📬 Email: Elsayeedmassoud@gmail.com  
 
 ---
 
